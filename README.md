@@ -1,6 +1,6 @@
 # Python Coursework
 
-This repository contains programming assignments completed during my AAI551 Python course. Each assignment builds on foundational skills in Python programming, data structures, and applied problem-solving.
+This repository contains programming assignments completed during my EE551 Python course. Each assignment builds on foundational skills in Python programming, data structures, and applied problem-solving.
 
 ## Homework Overview
 
@@ -16,7 +16,7 @@ This repository contains programming assignments completed during my AAI551 Pyth
 | `hw7`    | 
 
 ## How to Use
-Each folder contains the original assignment instructions and completed code in either `.py` or `.ipynb` format. Run notebooks in a Jupyter environment or view the `.py` files directly.
+Each folder contains the original assignment instructions and completed code in `.py` format. 
 
 ---
 
