@@ -1,6 +1,6 @@
 # Python Coursework
 
-This repository contains programming assignments completed during my EE551 Python course. Each assignment builds on foundational skills in Python programming, data structures, and applied problem-solving.
+This repository contains programming assignments completed during my AAI/CPE/EE 551 Python course. Each assignment builds on foundational skills in Python programming, data structures, and applied problem-solving.
 
 ## Homework Overview
 
